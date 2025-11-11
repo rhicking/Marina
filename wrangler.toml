@@ -17,6 +17,6 @@ command = "cargo install worker-build && worker-build --release"
 build = { command = "cargo install worker-build && worker-build --dev" }
 
 [vars]
-UUID = "ccccccc1-bbbb-4aaa-addd-aaaaaaaaaaa1"
+UUID = "ade2beba5-face-45a1-baec-5ebaeebaee9a"
 MAIN_PAGE_URL = "https://raw.githubusercontent.com/rhicking/Marina/refs/heads/main/web/index.html"
 SUBLINK_PAGE_URL = "https://raw.githubusercontent.com/rhicking/Marina/refs/heads/main/web/sublink.html"
